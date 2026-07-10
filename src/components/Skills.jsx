@@ -30,7 +30,7 @@ export default function Skills() {
   return (
     <section id="skills" className="py-24 px-6 md:px-10 overflow-hidden">
       <h2 className="text-4xl md:text-5xl font-serif font-semibold text-brownish text-center mb-16 tracking-tight transition-all duration-300 hover:text-cherry-red cursor-default">
-        My Skills
+        Skills & Tools
       </h2>
 
       <div 
