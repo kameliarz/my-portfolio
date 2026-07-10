@@ -43,12 +43,14 @@ export default function Contact() {
           
           <div className="pt-2">
             <a 
-              href="mailto:rizkianakamelia@gmail.com" 
-              className="shape-leaf inline-block bg-cherry-red text-white font-semibold px-8 py-3 rounded-full 
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=rizkianakamelia@gmail.com" 
+            target="_blank"
+            rel="noopener noreferrer"
+            className="shape-leaf inline-block bg-cherry-red text-white font-semibold px-8 py-3 rounded-full 
                 shadow-md shadow-cherry-red/20 transition-all duration-300 transform 
                 hover:bg-rose-700 hover:scale-105 hover:shadow-lg active:scale-95"
             >
-              Send Me Email
+            Send Me Email
             </a>
           </div>
         </div>
