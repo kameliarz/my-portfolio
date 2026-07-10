@@ -31,7 +31,7 @@ export default function Projects() {
 
   return (
     <section id="projects" className="py-24 px-6 md:px-10 bg-white overflow-hidden select-none">
-      <h2 className="text-4xl md:text-5xl font-serif font-semibold text-center mb-20 text-[#333333] tracking-tight transition-all duration-300 hover:text-cherry-red cursor-default">
+      <h2 className="text-4xl md:text-5xl font-serif font-semibold text-center mb-20 text-brownish tracking-tight transition-all duration-300 hover:text-cherry-red cursor-default">
         Selected Projects
       </h2>
       
