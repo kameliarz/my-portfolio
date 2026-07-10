@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme{
+  --color-cherry-red: #BB0430;
+  --color-milk: #FEFAFA;
+  --color-star: #C94F68;
+  --color-soft-hover: #FCECEE;
+  --color-brownish: #301F1F;
+  --color-redish: #801026;
+}
+
+@utility shape-leaf {
+  @apply rounded-tl-4xl rounded-bl-xl rounded-tr-xl rounded-br-4xl;
+}
+
+body {
+  background-color: var(--color-milk);
+  color: var(--color-brownish);
+}
