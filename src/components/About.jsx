@@ -35,10 +35,6 @@ export default function About() {
             <span className="text-cherry-red font-medium inline-block px-1 rounded bg-transparent transition-all duration-300 hover:bg-cherry-red/5 hover:scale-105">
               Frontend Developer Internship
             </span>{" "}
-            or{" "}
-            <span className="text-cherry-red font-medium inline-block px-1 rounded bg-transparent transition-all duration-300 hover:bg-cherry-red/5 hover:scale-105">
-              Full Stack Developer Internship
-            </span>{" "}
             where I can contribute to a dynamic team, solve real-world problems, and fast-track my growth in a professional environment.
           </p>
         </div>
